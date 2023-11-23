@@ -128,5 +128,4 @@ function cjson_safe.decode(json_text) end
 ---@return string? json_text, string? error_message
 function cjson_safe.encode(value) end
 
-
 return cjson_safe
