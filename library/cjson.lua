@@ -246,7 +246,7 @@ function cjson.encode_max_depth(depth) end
 ---
 ---The current setting is always returned, and is only updated when an argument
 ---is provided.
----@param precision integer
+---@param precision? integer
 ---@return integer precision
 function cjson.encode_number_precision(precision) end
 
