@@ -1,4 +1,4 @@
-# cjson definitions
+# lua-cjson definitions
 
 This repo contains definitions for the [Lua CJSON](https://kyne.com.au/~mark/software/lua-cjson.php) module. They were manually rewritten from the [manual](https://kyne.com.au/~mark/software/lua-cjson-manual.html).
 
